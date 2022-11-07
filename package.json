@@ -2,11 +2,11 @@
   "name": "emoji-search",
   "version": "0.1.0",
   "license": "MIT",
-  "homepage": "http://ahfarmer.github.io/emoji-search",
+  "homepage": "https://github.com/philgladman/emoji-search",
   "devDependencies": {
     "gh-pages": "^2.0.1",
     "prettier": "^1.17.1",
-    "react-scripts": "^3.0.1"
+    "react-scripts": "^4.0.0"
   },
   "dependencies": {
     "clipboard": "^2.0.4",
